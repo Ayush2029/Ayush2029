@@ -1,11 +1,11 @@
-# About Me
-<h3>Hey there, I’m Ayush Dharaiya </h3><br>
-🎓 Final Year ECE Student at Nirma University<br>
-💻 Passionate about Software Development, Image Processing & System Design<br>
-🔭 Currently exploring: Machine and Deep Learning<br>
-💬 Ask me about: Data Structures and Algorithm, Software and System Designing<br>
-<br>
-📫 Reach me at: ayushd2910@gmail.com <br>
+## 🙋‍♂️ About Me
+
+**Hey there, I’m Ayush Dharaiya**  
+🎓 Final Year ECE Student at Nirma University  
+💻 Passionate about Software Development, Image Processing & System Design  
+🔭 Currently exploring: Machine and Deep Learning  
+💬 Ask me about: Data Structures & Algorithms, Software & System Design  
+📫 Reach me at: [ayushd2910@gmail.com](mailto:ayushd2910@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
