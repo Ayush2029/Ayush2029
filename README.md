@@ -5,7 +5,7 @@
 🔭 Currently exploring: Machine and Deep Learning<br>
 💬 Ask me about: Data Structures and Algorithm, Software and System Designing<br>
 <br>
-📫 Reach me at: [ayushd2910@gmail.com](mailto:ayushd2910@gmail.com) <br>
+📫 Reach me at: ayushd2910@gmail.com <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
