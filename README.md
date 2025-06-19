@@ -1,7 +1,7 @@
 ## 🙋‍♂️ About Me
 
 **Hey there, I’m Ayush Dharaiya**  
-🎓 Final Year ECE Student at Nirma University  
+🎓 Final Year ECE'26 Student at Nirma University  
 💻 Passionate about Software Development, Image Processing & System Design  
 🔭 Currently exploring: Machine and Deep Learning  
 💬 Ask me about: Data Structures & Algorithms, Software & System Design  
