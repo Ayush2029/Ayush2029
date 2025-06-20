@@ -14,11 +14,9 @@
   </a>
 </p>
 
-#### Languages
+#### Programming Languages
 
-<p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bash" />
-</p>
+<p> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="C" /> </a>&nbsp; <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /> </a>&nbsp; <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="Python" /> </a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> </a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" /> </a>&nbsp; <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="Bash" /> </a> </p>
 
 #### Setup
 
@@ -26,14 +24,8 @@
     <img src="https://skillicons.dev/icons?i=vscode,sublime" />
 </p>
 
-# 💻 Tech Stack:
+#### Tech Stack:
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40">
-  </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
   </a>&nbsp;
