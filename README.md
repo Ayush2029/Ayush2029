@@ -14,6 +14,12 @@
   </a>
 </p>
 
+#### Languages
+
+<p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,go,scala,dart,bash,md" />
+</p>
+
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
