@@ -17,7 +17,7 @@
 #### Languages
 
 <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,go,scala,dart,bash,md" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,tickle,Perl" />
 </p>
 
 # 💻 Tech Stack:
