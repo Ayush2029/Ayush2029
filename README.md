@@ -20,6 +20,12 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bash" />
 </p>
 
+#### Setup
+
+<p>
+    <img src="https://skillicons.dev/icons?i=vscode,sublime" />
+</p>
+
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
