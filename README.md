@@ -18,11 +18,9 @@
 
 <p> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="C" /> </a>&nbsp; <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /> </a>&nbsp; <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="Python" /> </a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> </a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" /> </a>&nbsp; <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="Bash" /> </a> </p>
 
-#### Setup
+#### Development Environment / Setup
 
-<p>
-    <img src="https://skillicons.dev/icons?i=vscode,sublime" />
-</p>
+<p> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /> </a>&nbsp; <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" /> </a> </p>
 
 #### Tech Stack:
 <p align="center">
